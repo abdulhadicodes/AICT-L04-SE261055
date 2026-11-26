@@ -1,0 +1,3 @@
+- Phase 1: Requirement gathering, -
+- Phase 2: Core development, -
+- Phase 3: Testing and deployment
